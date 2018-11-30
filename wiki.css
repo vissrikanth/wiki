@@ -1,3 +1,18 @@
 .example {
   color: aliceblue;
 }
+
+.left-panel {
+  position: absolute;
+  top: 0;
+  width: 10em;
+  left: 0;
+}
+
+.image-logo {
+  background-color: red;
+}
+
+.main-section {
+  background-color: green;
+}
